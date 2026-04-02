@@ -11,7 +11,7 @@
         <key>patch</key>
         <integer>1</integer>
         <key>preRelease</key>
-        <string>alpha</string>
+        <string></string>
         <key>build</key>
         <string>1</string>
     </dict>
