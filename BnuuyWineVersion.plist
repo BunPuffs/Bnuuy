@@ -3,8 +3,15 @@
 <plist version="1.0">
 <dict>
     <key>version</key>
-    <string>1.0.0</string>
+    <dict>
+        <key>major</key>
+        <integer>0</integer>
+        <key>minor</key>
+        <integer>0</integer>
+        <key>patch</key>
+        <integer>1</integer>
+    </dict>
     <key>url</key>
-    <string>https://github.com/BunPuffs/Bnuuy/releases/download/0.0.1alpha/BnuuyWine.tar.gz</string>
+    <string>https://github.com/BunPuffs/Bnuuy/releases/download/v0.0.1alpha/BnuuyWine.tar.gz</string>
 </dict>
 </plist>
