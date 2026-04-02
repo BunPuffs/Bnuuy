@@ -10,8 +10,12 @@
         <integer>0</integer>
         <key>patch</key>
         <integer>1</integer>
+        <key>preRelease</key>
+        <string>alpha</string>
+        <key>build</key>
+        <string>1</string>
     </dict>
     <key>url</key>
-    <string>https://github.com/BunPuffs/Bnuuy/releases/download/v0.0.1alpha/BnuuyWine.tar.gz</string>
+    <string>https://github.com/BunPuffs/Bnuuy/releases/download/v0.1.1alpha/BnuuyWine.tar.gz</string>
 </dict>
 </plist>
