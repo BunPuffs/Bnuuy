@@ -15,7 +15,7 @@
         <key>build</key>
         <string>1</string>
     </dict>
-    <key>url</key>
+    <key>https://github.com/BunPuffs/Bnuuy/releases/download/v0.0.1/Libraries.tar.gz</key>
     <string>https://github.com/BunPuffs/Bnuuy/releases/download/v0.0.1/BnuuyWine.tar.gz</string>
 </dict>
 </plist>
