@@ -40,14 +40,16 @@ Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contri
 
 ---
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" valign="middle">
-      <img width="62.5" height="62.5" alt="Crossover-Icon" src="https://github.com/user-attachments/assets/b217b7aa-95a8-45b6-973c-7d99a0337c77" />
+    <td width="135" align="center" valign="middle">
+      <img width="125" height="125" alt="Crossover-Icon" src="https://github.com/user-attachments/assets/b217b7aa-95a8-45b6-973c-7d99a0337c77" />
     </td>
-    <td valign="up">
-      <h3>Support CodeWeavers, Get Crossover</h3>
-      <p>Bnuuy and Whisky wouldn't exist without CodeWeaver's CrossOver. Support their work at <a href="https://www.codeweavers.com/crossover">codeweavers.com/crossover</a>.</p>
+    <td valign="middle">
+      <div style="line-height: 1.4;">
+        <strong style="font-size: 1.2em;">Support CodeWeavers, Get CrossOver</strong><br>
+        Bnuuy and Whisk wouldn't exist without CodeWeaver's CrossOver. Support their work at <a href="https://www.codeweavers.com/crossover">codeweavers.com/crossover</a>.
+      </div>
     </td>
   </tr>
 </table>
