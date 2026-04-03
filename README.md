@@ -8,7 +8,7 @@
 
 ---
 
-Bnuuy is a compatibility layer for macOS designed to run Windows applications through Wine. This project is a fork of [Whisky](https://getwhisky.app/) provides a clean and easy to use graphical wrapper for Wine built in native SwiftUI. You can make and manage bottles, install and run Windows apps and games, and unlock the full potential of your Mac with no technical knowledge required. Bnuuy, as a fork of Whisky, is built on top of CrossOver 22.1.1, and Apple's own `Game Porting Toolkit`.
+Bnuuy is a compatibility layer for macOS designed to run Windows applications through Wine. This project is a fork of [Whisky](https://getwhisky.app/) and thus provides a clean and easy to use graphical wrapper for Wine built in native SwiftUI. You can make and manage bottles, install and run Windows apps and games, and unlock the full potential of your Mac with no technical knowledge required. Bnuuy is built on top of CrossOver 22.1.1 (as a fork from Whisky), Wine 11.5, and Apple's `Game Porting Toolkit 3`.
 
 ---
 
