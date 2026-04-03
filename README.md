@@ -1,7 +1,7 @@
 <div align="center">
 <img width="208" height="288" alt="Bnuuy1664x2304full" src="https://github.com/user-attachments/assets/b9ae2ef7-7549-4f15-95fc-df88459b46a9" />
   
-  <h1> ⊹₊˚‧︵‿₊୨ Bnuuy ୧₊‿︵‧˚₊⊹ </h1>
+  <h1> Bnuuy </h1>
     <h3>
       <span style="color: #DB144C;">B</span>Wine 
       <span style="color: #DB144C;">n</span>Is 
