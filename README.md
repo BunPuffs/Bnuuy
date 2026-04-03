@@ -11,7 +11,7 @@
 <img width="506" height="289" alt="Screenshot 2026-04-03 at 03 44 37" src="https://github.com/user-attachments/assets/9dad4582-3eb0-41c4-af8f-01c28f5eaf42" />
 </div>
 
-Bnuuy is a compatibility layer for macOS designed to run Windows applications through Wine. This project is a fork of [Whisky](https://getwhisky.app/) and thus provides a clean and easy to use graphical wrapper for Wine built in native SwiftUI. You can make and manage bottles, install and run Windows apps and games, and unlock the full potential of your Mac with no technical knowledge required. Bnuuy is built on top of CrossOver 22.1.1 (as a fork from Whisky), Wine 11.5, and Apple's `Game Porting Toolkit 3`.
+**Bnuuy** is a compatibility layer for macOS designed to run Windows applications through Wine. This project is a fork of [Whisky](https://getwhisky.app/) and thus provides a clean and easy to use graphical wrapper for Wine built in native SwiftUI. You can make and manage bottles, install and run Windows apps and games, and unlock the full potential of your Mac with no technical knowledge required. Bnuuy is built on top of CrossOver 22.1.1 (as a fork from Whisky), Wine 11.5, and Apple's `Game Porting Toolkit 3`.
 
 ---
 
@@ -43,11 +43,11 @@ Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contri
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img width="125" height="125" alt="Crossover-Icon" src="https://github.com/user-attachments/assets/b217b7aa-95a8-45b6-973c-7d99a0337c77" />
+      <img width="62.5" height="62.5" alt="Crossover-Icon" src="https://github.com/user-attachments/assets/b217b7aa-95a8-45b6-973c-7d99a0337c77" />
     </td>
-    <td valign="middle">
-      <h3 style="margin-top: 0;">Support CodeWeavers, Get Crossover</h3>
-      <p style="margin-bottom: 0;">Bnuuy and Whisky wouldn't exist without CodeWeaver's CrossOver. Support their work at <a href="https://www.codeweavers.com/crossover">codeweavers.com/crossover</a>.</p>
+    <td valign="up">
+      <h3>Support CodeWeavers, Get Crossover</h3>
+      <p>Bnuuy and Whisky wouldn't exist without CodeWeaver's CrossOver. Support their work at <a href="https://www.codeweavers.com/crossover">codeweavers.com/crossover</a>.</p>
     </td>
   </tr>
 </table>
