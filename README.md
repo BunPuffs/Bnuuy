@@ -53,7 +53,7 @@ Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contri
     <td valign="middle">
       <div style="line-height: 1.4;">
         <strong style="font-size: 1.2em;">Support CodeWeavers, Get CrossOver</strong><br>
-        Bnuuy and Whisk wouldn't exist without CodeWeaver's CrossOver. Support their work at <a href="https://www.codeweavers.com/crossover">codeweavers.com/crossover</a>.
+        Bnuuy and Whisky wouldn't exist without CodeWeaver's CrossOver. Support their work at <a href="https://www.codeweavers.com/crossover">codeweavers.com/crossover</a>.
       </div>
     </td>
   </tr>
