@@ -28,7 +28,7 @@
 
 ## Credits & Acknowledgments
 
-Whisky is possible thanks to the magic of several projects:
+Bnuuy is possible thanks to the magic of several projects:
 
 - [Whisky](https://getwhisky.app/) by Isaac Marovitz
 - [msync](https://github.com/marzent/wine-msync) by marzent
