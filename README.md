@@ -38,7 +38,7 @@ Bnuuy is possible thanks to the magic of several projects:
 - [SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) by SwiftPackageIndex
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) by Apple
 - [SwiftTextTable](https://github.com/scottrhoyt/SwiftyTextTable) by scottrhoyt
-- [Wine 11.5](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.5) by CodeWeavers and WineHQ 
+- [Wine](https://www.winehq.org/) by the Wine Project 
 - D3DMetal by Apple
 
 Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contributions!
