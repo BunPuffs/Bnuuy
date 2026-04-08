@@ -38,7 +38,7 @@ Bnuuy is possible thanks to the magic of several projects:
 - [SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) by SwiftPackageIndex
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) by Apple
 - [SwiftTextTable](https://github.com/scottrhoyt/SwiftyTextTable) by scottrhoyt
-- [CrossOver 22.1.1](https://www.codeweavers.com/crossover) by CodeWeavers and WineHQ
+- [Wine 11.5](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.5) by CodeWeavers and WineHQ 
 - D3DMetal by Apple
 
 Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contributions!
@@ -48,12 +48,12 @@ Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contri
 <table width="100%">
   <tr>
     <td width="135" align="center" valign="middle">
-      <img width="125" height="125" alt="Crossover-Icon" src="https://github.com/user-attachments/assets/b217b7aa-95a8-45b6-973c-7d99a0337c77" />
+      <img width="125" height="125" alt="winehq_logo_glass" src="https://github.com/user-attachments/assets/849a703a-de0a-4590-aec3-44d2ed024ae0"/>
     </td>
     <td valign="middle">
       <div style="line-height: 1.4;">
-        <strong style="font-size: 1.2em;">Support CodeWeavers, Get CrossOver</strong><br>
-        Bnuuy and Whisky wouldn't exist without CodeWeaver's CrossOver. Support their work at <a href="https://www.codeweavers.com/crossover">codeweavers.com/crossover</a>.
+        <strong style="font-size: 1.2em;">Support the Wine Project</strong><br>
+        Bnuuy wouldn't exist without the WIne Project. Support their work at [winehq.org/donate](https://www.winehq.org/donate)</a>.
       </div>
     </td>
   </tr>
