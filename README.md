@@ -48,7 +48,7 @@ Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contri
 <table width="100%">
   <tr>
     <td width="135" align="center" valign="middle">
-      <img width="200" height="313" alt="winehq_logo_glass" src="https://github.com/user-attachments/assets/8f62039d-7545-480d-8523-91644e52749e" />
+      <img width="100" height="156" alt="winehq_logo_glass" src="https://github.com/user-attachments/assets/8f62039d-7545-480d-8523-91644e52749e" />
     </td>
     <td valign="middle">
       <div style="line-height: 1.4;">
