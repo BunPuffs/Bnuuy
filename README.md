@@ -39,7 +39,7 @@ Bnuuy is possible thanks to the magic of several projects:
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) by Apple
 - [SwiftTextTable](https://github.com/scottrhoyt/SwiftyTextTable) by scottrhoyt
 - [Wine](https://www.winehq.org/) by the Wine Project 
-- D3DMetal by Apple
+- [D3DMetal](https://developer.apple.com/games/game-porting-toolkit/) by Apple
 
 Special thanks to Gcenx, ohaiibuzzle, and Nat Brown for their support and contributions!
 
