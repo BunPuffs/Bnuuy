@@ -13,8 +13,7 @@
 
 ---
 <div align="center">
-<img width="506" height="289" alt="Screenshot 2026-04-03 at 03 44 37" src=<img width="1192" height="688" alt="Screenshot 2026-04-11 at 02 49 33" src="https://github.com/user-attachments/assets/6e7aa4d3-44eb-4dce-9749-f0991f47967d" />
-/>
+<img width="1192" height="688" alt="Screenshot 2026-04-11 at 02 49 33" src="https://github.com/user-attachments/assets/6e7aa4d3-44eb-4dce-9749-f0991f47967d" />
 </div>
 
 **Bnuuy** is a compatibility layer for macOS designed to run Windows applications through Wine. This project is a fork of [Whisky](https://getwhisky.app/) and thus provides a clean and easy to use graphical wrapper for Wine built in native SwiftUI. You can make and manage bottles, install and run Windows apps and games, and unlock the full potential of your Mac with no technical knowledge required. Bnuuy is built on top of Wine 11.5 and Apple's `Game Porting Toolkit 3`.
