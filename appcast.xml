@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bnuuy</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Sat, 11 Apr 2026 00:26:36 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/BunPuffs/Bnuuy/releases/download/BnuuyApp-v0.0.1-Alpha/Bnuuy_0.0.1.zip" length="6485788" type="application/octet-stream" sparkle:edSignature="v0RuD9DHl58/plqbBQCRdh+dm1RW0azHxDo2AWC3nAFBg5HJJIU7jui/4PnMRGw1eCwADARnbYIu9+s/Bp43Bg=="/>
+        </item>
+    </channel>
+</rss>
