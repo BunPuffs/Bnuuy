@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/BunPuffs/Bnuuy/releases/download/BnuuyApp-0.0.3-HopefullyStable/Bnuuy-0.0.3.zip">
+  <a href="https://github.com/BunPuffs/Bnuuy/releases/download/BnuuyApp-0.0.3-HopefullyStable/Bnuuy_0.0.3.zip">
     <img width="208" height="288" alt="Bnuuy1664x2304full" src="https://github.com/user-attachments/assets/b9ae2ef7-7549-4f15-95fc-df88459b46a9" />
   </a>
 
