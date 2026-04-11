@@ -7,15 +7,15 @@
         <key>major</key>
         <integer>11</integer>
         <key>minor</key>
-        <integer>5</integer>
+        <integer>6</integer>
         <key>patch</key>
         <integer>1</integer>
         <key>preRelease</key>
         <string></string>
         <key>build</key>
-        <string>1</string>
+        <string>2</string>
     </dict>
     <key>url</key>
-    <string>https://github.com/BunPuffs/Bnuuy/releases/download/BnuuyWine-v11.5.1-alpha/Libraries.tar.gz</string>
+    <string>https://github.com/BunPuffs/Bnuuy/releases/download/BnuuyWine-11.6.1/Libraries-11.6.1.tar.gz</string>
 </dict>
 </plist>
