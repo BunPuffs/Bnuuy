@@ -1,14 +1,21 @@
-<item>
-    <title>Version 0.0.2 SortaStable</title>
-    <sparkle:releaseNotesLink>
-        https://github.com/BunPuffs/Bnuuy/releases/tag/v0.0.2
-    </sparkle:releaseNotesLink>
-    <pubDate>Sat, 11 Apr 2026 12:45:00 +0000</pubDate>
-    <enclosure 
-        url="https://github.com/BunPuffs/Bnuuy/releases/download/BnuuyApp-0.0.2-SortaStable/Bnuuy_0.0.2.zip" 
-        sparkle:version="2" 
-        sparkle:shortVersionString="0.0.2" 
-        sparkle:edSignature="BXo//nb1oeqa2+c296GqZITL3J3aVhpaiCYXXpg2PxSJ9z1LaYqi6n+3yUjWn7V9l/f2GCRBjpplgMTJy3MPDQ==" 
-        length="6497317" 
-        type="application/octet-stream" />
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Bnuuy App Updates</title>
+        <language>en</language>
+        <item>
+            <title>Version 0.0.2 SortaStable</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/BunPuffs/Bnuuy/releases/tag/v0.0.2
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 11 Apr 2026 12:45:00 +0000</pubDate>
+            <enclosure 
+                url="https://github.com/BunPuffs/Bnuuy/releases/download/BnuuyApp-0.0.2-SortaStable/Bnuuy_0.0.2.zip" 
+                sparkle:version="2" 
+                sparkle:shortVersionString="0.0.2" 
+                sparkle:edSignature="BXo//nb1oeqa2+c296GqZITL3J3aVhpaiCYXXpg2PxSJ9z1LaYqi6n+3yUjWn7V9l/f2GCRBjpplgMTJy3MPDQ==" 
+                length="6497317" 
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
